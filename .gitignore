@@ -1,6 +1,7 @@
 .idea/
 bin/
 docs/
+lib/
 *.bat
 *.hxml
 *.zip
