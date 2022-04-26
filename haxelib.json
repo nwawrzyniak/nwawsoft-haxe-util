@@ -1,0 +1,13 @@
+{
+  "name": "nwawsoft-haxe-util",
+  "url" : "https://github.com/nwawrzyniak/nwawsoft-haxe-util",
+  "license": "Public",
+  "tags": ["haxe", "util", "data structure"],
+  "description": "A library which offers simple data structures like Stack and Queue in Haxe.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release.",
+  "contributors": ["nwawrzyniak"],
+  "dependencies": {},
+  "main": "Main"
+}
